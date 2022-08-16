@@ -18,6 +18,8 @@ public class Student {
 	
 	private String address;
 
+	private String college;
+
 	public int getId() {
 		return id;
 	}

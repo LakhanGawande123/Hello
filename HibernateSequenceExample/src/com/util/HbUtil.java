@@ -14,7 +14,8 @@ import com.model.Student;
 
 public class HbUtil {
 
-	
+	main method
+
 	 private static StandardServiceRegistry registry;
 	   
 	   private static SessionFactory sf;

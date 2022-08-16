@@ -8,7 +8,6 @@ import com.util.HbUtil;
 
 public class Test {
 
-	
 	public static void main(String[] args) {
 		
 		SessionFactory sf = HbUtil.getSessionFactory();
